@@ -23,3 +23,6 @@ defined by the following equalities:
 * c2 = r3
 * c3 = r2
 * c4 = r1
+
+## Note
+This is a university (GUC) course project. Course name is (CSEN 403 : Concepts of Programming Languages). For a detailed description of the project and its requirements, please have a look at the [description](description) folder.
