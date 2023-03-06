@@ -1,4 +1,4 @@
-# Helsinki-Puzzle
+# Helsinki-Puzzlea
 Grid Puzzle
 ## Description
 Given a square grid of size N, where the horizontal rows are numbered 1 to N from
